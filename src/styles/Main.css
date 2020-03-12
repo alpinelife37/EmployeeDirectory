@@ -1,0 +1,48 @@
+body {
+  background-color: lightblue;
+  font-size: 2rem;
+}
+
+img {
+  border: 5px solid black;
+}
+
+#align-middle {
+  font-size: xx-large !important;
+}
+
+.searchbox button {
+  border: 1px solid black;
+}
+
+.searchbox button:hover {
+  background-color: black;
+  color: white;
+}
+
+#navbarNav {
+  background-color: lightblue;
+}
+
+.header {
+  background-color: rgb(76, 149, 173);
+  color: black;
+  font-style: oblique;
+}
+
+.navbar {
+  background-color: lightblue !important;
+}
+
+h1 {
+  font-size: 4rem;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#searchbox {
+  color: red !important;
+}
+
+#form-control {
+  color: red;
+}
