@@ -46,3 +46,9 @@ h1 {
 #form-control {
   color: red;
 }
+
+.navbar-collapse {
+  margin: 0 auto;
+  justify-content: center;
+  align-items: flex-start;
+}
