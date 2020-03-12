@@ -9,20 +9,6 @@ React based app that displays an employee directory and allows the user to sort 
 ![Example profile](./public/assets/images/example.png)
 [Deployed Link](https://agile-hamlet-46369.herokuapp.com/)
 
-### INSTALLATION INSTRUCTIONS
-
-    - [Local Setup]
-
-1. Setup the database by running the seed.js file located in the seeders folder. You can do this by navigating to the file location, opening it in your terminal and typing "node seed.js."
-2. Install the required modules by typing "npm install" or "npm i" in the root folder using your code editor terminal.
-3. Run the app by typing "node server.js" or "node server."
-4. If successful, the user will see "connected on localhost:3000," and will be able to click on the link to see the app displayed n their default browser.
-5. The user can then navigate to localhost:3000 in their browser of choice and utilize the app.
-
-   - [Deployed Setup]
-
-6. [Click on the following Heroku link to see the deployed version.](https://agile-hamlet-46369.herokuapp.com/)
-
 ### BUILT WITH
 
 - [HTML](https://html.com/)
